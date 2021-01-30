@@ -6,7 +6,7 @@
 <img align="right" width="100%"  src="./src/images/screenshot.PNG" />
 </div>
 
-<hr/>
+<hr>
 
 ### Live Demo
 
