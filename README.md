@@ -1,12 +1,14 @@
 # Messenger Clone developed using React JS, Material UI and Firebase
 
-## App Screenshots
+### App Screenshots
 
 <div>
 <img align="right" width="100%"  src="./src/images/screenshot.PNG" />
 </div>
 
-## Live Demo
+<br/>
+
+### Live Demo
 
 [https://praveenoruganti-msg-clone.firebaseapp.com/](https://praveenoruganti-msg-clone.firebaseapp.com/)
 
