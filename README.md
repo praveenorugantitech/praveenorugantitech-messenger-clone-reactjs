@@ -2,10 +2,9 @@
 
 ### App Screenshots
 <div>
-<img align="right" width="60%"  src="./src/images/screenshot.PNG" />
+<img align="right" width="100%"  src="./src/images/screenshot.PNG" />
 </div>
 
-<br/>
 ### Live Demo
 
 [https://praveenoruganti-msg-clone.firebaseapp.com/](https://praveenoruganti-msg-clone.firebaseapp.com/)
