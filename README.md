@@ -12,7 +12,7 @@
 
 [https://praveenoruganti-msg-clone.firebaseapp.com/](https://praveenoruganti-msg-clone.firebaseapp.com/)
 
-## Setup Local Instructions
+### Setup Local Instructions
 
 - git clone https://github.com/praveenorugantitech/praveenorugantitech-messenger-clone-reactjs.git
 - cd praveenorugantitech-messenger-clone-reactjs
