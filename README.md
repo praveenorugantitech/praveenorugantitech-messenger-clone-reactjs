@@ -2,9 +2,8 @@
 
 ### App Screenshots
 
-<div>
-<img align="right" width="100%"  src="./src/images/screenshot.PNG" />
-</div>
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-messenger-clone-reactjs/master/src/images/screenshot.PNG)
+
 
 ### Live Demo
 
