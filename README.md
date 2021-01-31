@@ -11,19 +11,23 @@
 
 ### Setup Local Instructions
 
-- git clone https://github.com/praveenorugantitech/praveenorugantitech-messenger-clone-reactjs.git
-- cd praveenorugantitech-messenger-clone-reactjs
-- npm install
-- create .env file and include your firebase details <br/>
+```
+git clone https://github.com/praveenorugantitech/praveenorugantitech-messenger-clone-reactjs.git
+cd praveenorugantitech-messenger-clone-reactjs
+npm install
 
-	REACT_APP_FIREBASE_API_KEY= "" <br/>
-	REACT_APP_FIREBASE_AUTH_DOMAIN= "" <br/>
-	REACT_APP_FIREBASE_PROJECT_ID= "" <br/>
-	REACT_APP_FIREBASE_STORAGE_BUCKET= "" <br/>
-	REACT_APP_FIREBASE_MESSAGE_SENDER_ID=  "" <br/>
-	REACT_APP_FIREBASE_APP_ID= "" <br/>
+create .env file and include your firebase details
 
-- npm start
+	REACT_APP_FIREBASE_API_KEY= "" 
+	REACT_APP_FIREBASE_AUTH_DOMAIN= "" 
+	REACT_APP_FIREBASE_PROJECT_ID= "" 
+	REACT_APP_FIREBASE_STORAGE_BUCKET= "" 
+	REACT_APP_FIREBASE_MESSAGE_SENDER_ID=  "" 
+	REACT_APP_FIREBASE_APP_ID= ""
+
+
+npm start
+```
 
 
 
